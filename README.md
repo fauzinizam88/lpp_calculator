@@ -1,7 +1,7 @@
 # LPP Calculator (PPKM)
 This is a Streamlit web application designed to calculate Key Performance Indicators (KPIs) for the LPP (Laporan Penilaian Prestasi) process, specifically tailored for the PPKM context.
 
-Live app: https://lpp-calculator.streamlit.app/
+Live app: https://lppcalculator.streamlit.app/
 
 ## Run locally
 pip install -r requirements.txt
