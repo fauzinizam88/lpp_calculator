@@ -27,11 +27,16 @@ The application is divided into several tabs:
 
 A sidebar provides a persistent view of the current scores and a link to the "Garis Panduan" document.
 
-## License
-This project is licensed under the **Apache License 2.0**. See the `LICENSE` file.
+## License & Redistribution (Compliance Checklist)
+This project is licensed under the **Apache License 2.0**.
 
-## Notice / Attribution
-Please retain the `NOTICE` file and copyright headers when redistributing.
+If you **redistribute** this project (original or modified), you must:
+1. Include the `LICENSE` file (Apache 2.0).
+2. Keep the `NOTICE` file (or reproduce its contents in an appropriate place).
+3. Keep existing copyright and attribution notices in the source.
+4. If you modify files, add a clear note that you changed them.
+
+If you cannot meet these requirements, you are not permitted to redistribute the code.
 
 ## Disclaimer
 This tool is provided for educational and informational purposes only. It is provided **"AS IS"** without warranties or conditions of any kind. Use at your own risk.
