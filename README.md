@@ -27,7 +27,7 @@ The application is divided into several tabs:
 
 A sidebar provides a persistent view of the current scores and a link to the "Garis Panduan" document.
 
-## License & Redistribution (Compliance Checklist)
+## License & Redistribution
 This project is licensed under the **Apache License 2.0**.
 
 If you **redistribute** this project (original or modified), you must:
