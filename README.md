@@ -34,3 +34,12 @@ A sidebar provides a persistent view of the current scores and a link to the "Ga
 ├── app.py
 ├── requirements.txt
 └── README.md
+
+## License
+This project is licensed under the **Apache License 2.0**. See the `LICENSE` file.
+
+## Notice / Attribution
+Please retain the `NOTICE` file and copyright headers when redistributing.
+
+## Disclaimer
+This tool is provided for educational and informational purposes only. It is provided **"AS IS"** without warranties or conditions of any kind. Use at your own risk.
