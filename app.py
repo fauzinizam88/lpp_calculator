@@ -305,8 +305,8 @@ NUMERIC_ITEMS = [
         row=24,
         section_label="Z (10%)",
         label="CPD",
-        default=30.0,
-        max_input=30.0,
+        default=40.0,
+        max_input=40.0,
         max_output=10.0,
     ),
 ]
@@ -325,7 +325,7 @@ FORMULA_MAP = {
     "E21": "=D21/10*10",
     "E22": "=D22/10*10",
     "E23": "=E21+E22",
-    "E24": "=D24/30*10",
+    "E24": "=D24/40*10",
     "E25": "=E24",
     "E26": "=E20+E21+E22+E24",
 }

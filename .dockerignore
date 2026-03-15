@@ -1,0 +1,15 @@
+.git
+.gitignore
+.idea
+.venv
+__pycache__
+*.pyc
+.streamlit
+app_excel.py
+LPP Calculator PPKM.xlsx
+README.md
+LICENSE
+NOTICE
+task.md
+implementation_plan.md
+walkthrough.md
